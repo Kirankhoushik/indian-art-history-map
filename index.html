@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Indian Art History Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>Indian Art History Map</h1>
+      <p>Explore major locations, movements, artists, and artworks across India.</p>
+    </header>
+
+    <main class="layout">
+      <aside class="controls" aria-label="Map filters">
+        <h2>Filters</h2>
+
+        <label for="eraFilter">Era</label>
+        <select id="eraFilter">
+          <option value="all">All</option>
+        </select>
+
+        <label for="styleFilter">Style / Movement</label>
+        <select id="styleFilter">
+          <option value="all">All</option>
+        </select>
+
+        <label for="regionFilter">Region</label>
+        <select id="regionFilter">
+          <option value="all">All</option>
+        </select>
+
+        <button id="resetFilters" type="button">Reset Filters</button>
+
+        <section class="legend" aria-label="Legend">
+          <h3>Legend</h3>
+          <ul>
+            <li><span class="dot ancient" aria-hidden="true"></span> Ancient</li>
+            <li><span class="dot medieval" aria-hidden="true"></span> Medieval</li>
+            <li><span class="dot modern" aria-hidden="true"></span> Modern</li>
+            <li><span class="dot contemporary" aria-hidden="true"></span> Contemporary</li>
+          </ul>
+        </section>
+      </aside>
+
+      <section class="map-panel">
+        <div id="map" aria-label="Interactive map of Indian art history locations"></div>
+      </section>
+
+      <aside class="details" aria-live="polite" aria-label="Location details">
+        <h2>Location Details</h2>
+        <div id="detailsContent">
+          <p>Select a marker to view historical context.</p>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <p>Data is educational and can be extended with additional verified sources.</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [75.7033, 20.5519] },
+      "properties": {
+        "name": "Ajanta, Maharashtra",
+        "region": "West India",
+        "era": "Ancient",
+        "movement": "Buddhist Murals",
+        "artists": ["Monastic atelier traditions"],
+        "artworks": ["Ajanta Cave Paintings"],
+        "description": "Ajanta preserves some of India’s finest surviving ancient murals depicting Jataka tales and courtly life.",
+        "context": "Created across multiple phases (c. 2nd century BCE to 6th century CE), these murals shaped visual storytelling across Buddhist networks.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ajanta_1.jpg",
+        "sources": ["https://whc.unesco.org/en/list/242"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [75.179, 20.0268] },
+      "properties": {
+        "name": "Ellora, Maharashtra",
+        "region": "West India",
+        "era": "Medieval",
+        "movement": "Rock-cut Sculpture",
+        "artists": ["Guild-based temple artisans"],
+        "artworks": ["Kailasa Temple (Cave 16)"],
+        "description": "Ellora demonstrates monumental rock-cut architecture and sculpture across Buddhist, Hindu, and Jain traditions.",
+        "context": "Between c. 6th and 10th centuries CE, Ellora became a major syncretic site of patronage and artistic experimentation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kailasa_temple%2C_Ellora.jpg",
+        "sources": ["https://whc.unesco.org/en/list/243"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.209, 28.6139] },
+      "properties": {
+        "name": "Delhi",
+        "region": "North India",
+        "era": "Medieval",
+        "movement": "Mughal Miniature",
+        "artists": ["Basawan", "Abu'l Hasan"],
+        "artworks": ["Akbarnama Illustrations"],
+        "description": "Delhi served as an imperial center where Persianate and Indic visual traditions merged in Mughal ateliers.",
+        "context": "From the 16th century onward, court workshops established refined narrative conventions in miniature painting.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Akbarnama.jpg",
+        "sources": ["https://www.britannica.com/art/Mughal-painting"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [75.7873, 26.9124] },
+      "properties": {
+        "name": "Jaipur, Rajasthan",
+        "region": "Northwest India",
+        "era": "Medieval",
+        "movement": "Rajput Miniature",
+        "artists": ["Sahib Ram (associated traditions)"],
+        "artworks": ["Ragamala series traditions"],
+        "description": "Rajput courts fostered vibrant miniature styles with devotional, literary, and musical themes.",
+        "context": "Regional workshops in Rajasthan evolved distinctive palettes, figuration, and court iconography between the 17th and 19th centuries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ragamala_Malwa.jpg",
+        "sources": ["https://www.metmuseum.org/toah/hd/rajp/hd_rajp.htm"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.2673, 32.0998] },
+      "properties": {
+        "name": "Kangra, Himachal Pradesh",
+        "region": "North India",
+        "era": "Medieval",
+        "movement": "Pahari Painting",
+        "artists": ["Nainsukh (in related Pahari lineage)"],
+        "artworks": ["Gita Govinda and Bhagavata themes"],
+        "description": "Kangra painting is known for lyrical landscapes and romantic-devotional narratives.",
+        "context": "By the 18th century, Pahari courts developed a refined style emphasizing emotional subtlety and nature.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Krishna_and_Radha_in_a_pavilion.jpg",
+        "sources": ["https://www.britannica.com/art/Pahari-painting"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [88.3639, 22.5726] },
+      "properties": {
+        "name": "Kolkata, West Bengal",
+        "region": "East India",
+        "era": "Modern",
+        "movement": "Bengal School",
+        "artists": ["Abanindranath Tagore", "Nandalal Bose"],
+        "artworks": ["Bharat Mata"],
+        "description": "Kolkata was central to nationalist-era artistic reform and the emergence of the Bengal School.",
+        "context": "In the late 19th and early 20th centuries, artists developed alternatives to academic realism tied to anti-colonial thought.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bharat_Mata_Abanindranath_Tagore.jpg",
+        "sources": ["https://www.tate.org.uk/art/art-terms/b/bengal-school"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [87.6841, 23.6778] },
+      "properties": {
+        "name": "Santiniketan, West Bengal",
+        "region": "East India",
+        "era": "Modern",
+        "movement": "Santiniketan Modernism",
+        "artists": ["Nandalal Bose", "Benode Behari Mukherjee", "Ramkinkar Baij"],
+        "artworks": ["Kala Bhavana mural and sculpture traditions"],
+        "description": "Santiniketan became a key pedagogic and experimental center connecting art, craft, and environment.",
+        "context": "Its curriculum emphasized contextual modernism and materially rooted practices in the early-to-mid 20th century.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Visva-Bharati_University.jpg",
+        "sources": ["https://www.visvabharati.ac.in/"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [73.1812, 22.3072] },
+      "properties": {
+        "name": "Vadodara, Gujarat",
+        "region": "West India",
+        "era": "Modern",
+        "movement": "Baroda Modernism",
+        "artists": ["K.G. Subramanyan", "Gulam Mohammed Sheikh", "Bhupen Khakhar"],
+        "artworks": ["Narrative modernist works from Baroda School"],
+        "description": "Vadodara’s Faculty of Fine Arts became a major post-independence hub for critical modernist practice.",
+        "context": "From the 1950s onward, artists in Baroda shaped plural, narrative approaches to modern Indian art.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Faculty_of_Fine_Arts_MSU_Baroda.jpg",
+        "sources": ["https://www.msubaroda.ac.in/faculty/Fine-Arts"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [79.1378, 10.7905] },
+      "properties": {
+        "name": "Thanjavur, Tamil Nadu",
+        "region": "South India",
+        "era": "Medieval",
+        "movement": "Tanjore Painting",
+        "artists": ["Hereditary workshop lineages"],
+        "artworks": ["Gold-leaf devotional panel paintings"],
+        "description": "Thanjavur is associated with richly ornamented devotional paintings and temple-centered visual culture.",
+        "context": "Developed under Nayaka and Maratha patronage, Tanjore painting integrated ritual use with courtly craft traditions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Thanjavur_painting.jpg",
+        "sources": ["https://www.britannica.com/art/Tanjore-painting"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.2673, 9.9312] },
+      "properties": {
+        "name": "Kochi, Kerala",
+        "region": "South India",
+        "era": "Contemporary",
+        "movement": "Contemporary Biennale Culture",
+        "artists": ["Multiple international and Indian contemporary artists"],
+        "artworks": ["Kochi-Muziris Biennale installations"],
+        "description": "Kochi is a major contemporary art node through biennale-led public and site-specific practices.",
+        "context": "Since 2012, the Kochi-Muziris Biennale has expanded transnational dialogue in South Asian contemporary art.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kochi_Muziris_Biennale.jpg",
+        "sources": ["https://kochibiennale.org/"]
+      }
+    }
+  ]
+}
